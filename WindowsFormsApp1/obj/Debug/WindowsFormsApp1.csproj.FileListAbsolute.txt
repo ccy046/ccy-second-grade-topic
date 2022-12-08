@@ -1,0 +1,16 @@
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\bin\Debug\Resources\hit.wav
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\bin\Debug\Resources\score.txt
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\bin\Debug\Resources\跑跑卡丁車.wav
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\JIA\備份\OneDrive - 南臺科技大學\桌面\Break_bricks_C_sharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
